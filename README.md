@@ -1,4 +1,3 @@
-# LXL-Decision-Making
 # LXL Decision Making Skill
 
 A Claude Code skill for structured decision-making, based on Li Xiaolai's book *The Truth About Thinking*（思考的真相）.
